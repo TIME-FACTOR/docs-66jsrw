@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-uzhihd.jonitogel43ccp.cyou/sitemap.xml
